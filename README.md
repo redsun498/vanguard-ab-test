@@ -90,9 +90,11 @@ After testing for the three hypothesis, we ended up with the following insights:
 - Completion Rate with a Cost-Effectiveness Threshold (5%): Reject the null hypothesis. The observed increase in completion rate is statistically significant but it does not meet the 5% threshold placed by the company.
 -  Difference on steps: Fail to reject the null hypothesis. The means of the time per step are not significantly different.
 
-  With this information, we can answer the question that was posed: *Would these changes encourage more clients to complete the process?*
+  With this information, we can answer the question that was posed:
+  *Would these changes encourage more clients to complete the process?*
   
 The answer to that question would that our test did not provide sufficient evidence to conclude that the effect exists. Hence, we can say that the changes did not encourage more clients to complete the process. 
 
 # Contact
-linkedin, github, medium, etc
+- https://www.linkedin.com/in/edwardo-rivera/
+- https://www.linkedin.com/in/axel-lopez-cabezas-213194170/

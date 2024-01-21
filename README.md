@@ -92,7 +92,7 @@ After testing for the three hypothesis, we ended up with the following insights:
 
   With this information, we can answer the question that was posed: *Would these changes encourage more clients to complete the process?*
   
-The answer to that question would that our test did not provide sufficient evidence to conclude that the effect exists. Hence, we can say tha the changes did not encourage more clients to complete the process. 
+The answer to that question would that our test did not provide sufficient evidence to conclude that the effect exists. Hence, we can say that the changes did not encourage more clients to complete the process. 
 
 # Contact
 linkedin, github, medium, etc

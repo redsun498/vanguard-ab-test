@@ -83,7 +83,15 @@ To properly understand the effects of the experiment, we had to filter the affor
   - Completion Rate with a Cost-Effectiveness Threshold (5%)
   - Difference on steps
 
-To test for the Difference on steps, we need to know that the order of the process is: start,step 1, step 2, step 3 and confirm. In order to test for the difference of time between the steps, we needed to create 2 new dataframes that have only the entries that have steps in sequential order. 
+To test for the Difference on steps, we need to know that the order of the process is: 
+1. start
+2. step 1
+3. step 2
+4. step 3
+5. confirm.
+
+In order to test for the difference of time between the steps, we needed to create 2 new dataframes that have only the entries that have steps in sequential order,
+df_control_time_each_step and df_test_time_each_step.
 
 # Conclusion
 After testing for the three hypothesis, we ended up with the following insights:

@@ -104,6 +104,7 @@ After testing for the three hypothesis, we ended up with the following insights:
   
 The answer to that question would that our test did not provide sufficient evidence to conclude that the effect exists. Hence, we can say that the changes did not encourage more clients to complete the process. 
 
+To see the presentation of this project, you can access it with the following link: https://docs.google.com/presentation/d/1yzm5lO-8LBUAf2Z0ifebm9R5nRtfD0uuzLtm2PZHlsw/edit?usp=sharing
 # Contact
 - https://www.linkedin.com/in/edwardo-rivera/
 - https://www.linkedin.com/in/axel-lopez-cabezas-213194170/

@@ -102,7 +102,9 @@ After testing for the three hypothesis, we ended up with the following insights:
   With this information, we can answer the question that was posed:
   *Would these changes encourage more clients to complete the process?*
   
-The answer to that question would that our test did not provide sufficient evidence to conclude that the effect exists. Hence, we can say that the changes did not encourage more clients to complete the process. 
+The answer to that question would that although we rejected 2 of our null hypothesis (Completion Rate and Completion Rate with a Cost-Effectiveness Threshold (5%)), the Cost-Effectiveness Threshold did not reach the 5% established by the stakeholders so it did not fufill the goal we needed it to. Aditionally, we also failed to reject the null hypothesis for the Difference on steps. 
+
+This leads us to say that although there is proof that the changes to the UI made the completion rate increase, because of the failure to meet the 5% threshold and the failure to see a difference in the average time spent on each process step, our conclusion is that the changes did encourage more clients to complete the process but not to the standards that were expected. 
 
 To see the presentation of this project, you can access it with the following link: https://docs.google.com/presentation/d/1yzm5lO-8LBUAf2Z0ifebm9R5nRtfD0uuzLtm2PZHlsw/edit?usp=sharing
 # Contact

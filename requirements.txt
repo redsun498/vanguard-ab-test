@@ -4,12 +4,8 @@ matplotlib == 3.8.2
 matplotlib-inline == 0.1.6
 numpy == 1.26.3                   
 scipy == 1.11.1   
-statsmodels == 
-sys == 
-statsmodels.api == 
-
-ipykernel == 6.25.0                         
+statsmodels == 0.14.1
 python == 3.10.0               
-tableu == 
+tableau == 2023.3.1
 
 

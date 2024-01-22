@@ -88,7 +88,7 @@ To test for the Difference on steps, we need to know that the order of the proce
 2. step 1
 3. step 2
 4. step 3
-5. confirm.
+5. confirm
 
 In order to test for the difference of time between the steps, we needed to create 2 new dataframes that have only the entries that have steps in sequential order,
 df_control_time_each_step and df_test_time_each_step.
